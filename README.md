@@ -15,3 +15,6 @@ diseno
 
 ## Proyecto Patrones
 Solo se realiza el diseno del ejercicio.
+
+
+![diseno](https://github.com/JCristinaJSalas/BibliotecaJulieJerez/assets/89360648/ee5bc47f-4d7e-4514-83f7-34aef58af6a3)
